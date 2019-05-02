@@ -14,6 +14,13 @@ Segue abaixo o link do repo:
 $ git clone https://github.com/willianpassarelli/twitterClone.git
 ```
 
+## Telas da Aplicação
+
+![image](https://user-images.githubusercontent.com/26445991/57094103-0e515580-6ce6-11e9-8a10-3429794812ed.png)
+
+![image](https://user-images.githubusercontent.com/26445991/57094047-e06c1100-6ce5-11e9-8003-1ca6710d0d94.png)
+
+
 ## Exemplo de uso
 
 Projeto Web com ReacJS simples, basta inserir o nome de usuário para acessar a pagina de comentários,
