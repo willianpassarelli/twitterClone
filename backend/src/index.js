@@ -7,7 +7,8 @@ const app = express();
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
-mongoose.connect('mongodb://devpass:dev123@ds111138.mlab.com:11138/goweek-devpass', {
+// Abaixo deverá colocar o caminho do banco MongoDB com usuário e senha
+mongoose.connect('mongodb://SUA-URL-MONGODB-AQUI', {
     useNewUrlParser: true
     }
 );
