@@ -5,9 +5,7 @@
 Para mais informações de como rodar o backend deste projeto, tenho uma API em meu repositório no qual tem a explicação de cada detalhe.
 Segue abaixo o link do repo:
 
-```
-https://github.com/willianpassarelli/API-NodeJ
-```
+> [https://github.com/willianpassarelli/API-NodeJS](https://github.com/willianpassarelli/API-NodeJS)
 
 ### FRONTEND
 
